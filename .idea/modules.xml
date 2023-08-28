@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boolean lgebra and flags/Boolean lgebra and flags.iml" filepath="$PROJECT_DIR$/Boolean lgebra and flags/Boolean lgebra and flags.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson 1..iml" filepath="$PROJECT_DIR$/lesson 1..iml" />
     </modules>
   </component>
