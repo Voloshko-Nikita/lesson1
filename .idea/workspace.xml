@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa6c1fd5-04ad-4a2d-8d69-3593f8e4cd60" name="Changes" comment="Homework, imperative programming">
-      <change afterPath="$PROJECT_DIR$/Boolean lgebra and flags/Boolean lgebra and flags.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boolean lgebra and flags/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Array.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boolean lgebra and flags/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boolean lgebra and flags/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
     "last_opened_file_path": "C:/Users/voloshko.nikita/Homework and other stuff/Computer since/CS lessons/1. lesson/lesson 1",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,5 +70,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework, imperative programming" />
     <option name="LAST_COMMIT_MESSAGE" value="Homework, imperative programming" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
